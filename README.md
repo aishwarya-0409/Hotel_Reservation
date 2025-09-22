@@ -38,7 +38,6 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 
 ### Usage 📋
 - Upon running the application, you'll be presented with a menu to choose your desired operation (reservation, viewing, editing, or exiting).
-
 - Follow the prompts to input reservation details, view current reservations, edit existing bookings, and more.
 
 ### Contributing 🤝
@@ -48,3 +47,17 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 - Special thanks to all contributors and supporters of the Hotel Reservation System project.
 
 ### Happy booking! 🌆
+
+### OUTPUT :
+
+<img width="775" height="440" alt="image" src="https://github.com/user-attachments/assets/45502ed6-beea-4869-82ca-06a7c4952695" />
+<img width="800" height="423" alt="image" src="https://github.com/user-attachments/assets/d8e088ac-a273-4ac5-98c4-5f2709ab05ff" />
+<img width="1292" height="579" alt="image" src="https://github.com/user-attachments/assets/b146e5c3-7171-44b7-b888-a8f19b57f242" />
+<img width="835" height="347" alt="image" src="https://github.com/user-attachments/assets/5bb79d34-af43-45c9-81e6-8efdec864af7" />
+<img width="1257" height="539" alt="image" src="https://github.com/user-attachments/assets/5e5326f3-1db5-4b1c-a066-720d62eac46e" />
+<img width="706" height="419" alt="image" src="https://github.com/user-attachments/assets/c2e411a8-3fab-4e37-8af1-502885d75bd1" />
+
+
+
+
+
